@@ -1,2 +1,2 @@
 # Neetcode
-Blind 75 + 75
+The Neetcode 150 is the Blind 75 plus 75 more problems.
