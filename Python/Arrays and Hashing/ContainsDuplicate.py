@@ -18,3 +18,6 @@ class Solution(object):
 
 #define bool - with uppercase first letter - True and False
 #get function on dictionary
+
+# Creating a default dictionary with integer value 0
+#->  count = defaultdict(int)
