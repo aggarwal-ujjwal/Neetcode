@@ -17,3 +17,4 @@ class Solution(object):
 
 
 #define bool - with uppercase first letter - True and False
+#get function on dictionary
