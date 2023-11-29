@@ -19,4 +19,3 @@ class Solution:
         sorted_t = sorted(t)
         return sorted_s == sorted_t
 
-
