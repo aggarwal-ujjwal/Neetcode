@@ -7,3 +7,5 @@ class Solution:
 
 
         return ans
+
+    #https://leetcode.com/problems/number-of-1-bits/solutions/1044775/python-n-n-1-trick-even-faster-explained/
