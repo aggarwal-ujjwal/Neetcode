@@ -8,3 +8,4 @@ class Solution(object):
         return s == s[::-1]
 
 #isalnum - is both in C++ and Python
+#Write a solution wrt to two pointers
